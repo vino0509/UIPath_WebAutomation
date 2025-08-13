@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge StationH • Powered by Workvivo",
+  "Type": "Screen",
+  "Id": "ccPLtp4RBUWmWALZpE0z1A",
+  "Reference": "dUz6yCXw1UOtZpw2BHwnNw/ccPLtp4RBUWmWALZpE0z1A",
+  "ParentRef": "dUz6yCXw1UOtZpw2BHwnNw/i8qsohV_8k-j9Yq4oto23g",
+  "Created": "2025-08-11T18:51:16.2571189Z",
+  "Updated": "2025-08-11T18:51:16.2571189Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

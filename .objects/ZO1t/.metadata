@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge StationH • Powered by Workvivo",
+  "Type": "App",
+  "Id": "ZO1thHaZak2JWfqVrrmrNQ",
+  "Reference": "dUz6yCXw1UOtZpw2BHwnNw/ZO1thHaZak2JWfqVrrmrNQ",
+  "Created": "2025-08-11T18:51:16.1143012Z",
+  "Updated": "2025-08-11T18:51:16.1143012Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

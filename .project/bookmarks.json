@@ -1,0 +1,15 @@
+{
+  "Value": {
+    "Main.xaml": [
+      {
+        "IsEnabled": true,
+        "Annotation": null,
+        "Id": "30a91f9a-3f6d-4c8b-ad7a-0d02bbf30ddb",
+        "ActivityIdRef": "NNavigateBrowser_2",
+        "ActivityId": "1.98",
+        "ActivityName": "Navigate Browser - Close Tab",
+        "IsTransient": false
+      }
+    ]
+  }
+}

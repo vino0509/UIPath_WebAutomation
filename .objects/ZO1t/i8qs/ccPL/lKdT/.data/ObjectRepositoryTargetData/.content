@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="u95QJEQeRUqF97y1zAuBVg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="station-h.hexaware.com/apps/featured" DesignTimeRectangle="449, 605, 1368, 330" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div' idx='3' parentid='mainContent' tag='DIV' /&gt;" Guid="e5fc9f49-0605-46b0-bd1e-97c7b3ec1e00" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='StationH • Powered by Workvivo' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="344eae6865c59708f4be36554601895f.png" xmlns="">0Zz2EgyH7S0qUyZ2zYoV9qA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
